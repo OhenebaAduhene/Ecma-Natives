@@ -1,0 +1,16 @@
+{
+  "name": "classes_app",
+  "version": "0.0.1",
+  "description": "ecma natives classes app",
+  "main": "index.js",
+  "scripts": {
+    "app": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.4.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
